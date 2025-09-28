@@ -19,4 +19,70 @@ Together, these establish both the intellectual case and the technical machinery
 ---
 
 ## Contents
+/docs
+
+OrientationMap.pdf ← bridging document
+
+PatternSynthesis.pdf ← historical framework (why now)
+
+TaxonomyBlueprint.pdf ← technical specification (how)
+
+
+/taxonomy
+
+MVT_seed.json ← Minimum Viable Taxonomy (90 patterns)
+
+schema.md ← dimensional fields and structure
+
+/examples
+
+arrhythmia_contagion.md ← worked example of pattern translation
+
+
+---
+
+## Key Features
+
+- **9-dimensional coordinate system** for consistent cross-domain pattern mapping  
+- **Relational positioning** via percentile ranks (avoids incommensurability)  
+- **Absence Pattern Method** for systematic innovation through negative space  
+- **Impossibility Filter** to screen out constraint-violating explorations  
+- **Minimum Viable Taxonomy (MVT)**: 90 patterns to bootstrap network effects  
+
+---
+
+## How to Contribute
+
+1. **Fork this repo**  
+2. Add or update patterns in `/taxonomy` (JSON or Markdown)  
+3. Submit a **Pull Request** with clear description  
+4. Discuss ideas or questions in **Issues**  
+
+All contributions must be released under CC BY 4.0.
+
+---
+
+## License
+
+This project is licensed under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.  
+
+You are free to share, adapt, and build upon this work — including for commercial purposes — provided proper attribution is given.  
+
+![CC BY 4.0 Badge](https://licensebuttons.net/l/by/4.0/88x31.png)
+
+---
+
+## Citation
+
+If referencing this framework, please cite both core papers:
+
+- Charles S. Thomas (2025). *The Pattern Synthesis: A Historical Framework for Knowledge Evolution.*  
+- Charles S. Thomas (2025). *Universal Pattern Taxonomy: Architecture and Implementation.*
+
+---
+
+## Contact
+
+Project website: https://epistria.com/patterntaxonomy 
+Updates & community contributions will be listed here and on the website.
 

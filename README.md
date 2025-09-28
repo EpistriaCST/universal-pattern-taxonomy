@@ -69,6 +69,7 @@ If referencing this framework, please cite both core papers:
 
 - Charles S. Thomas (2025). *The Pattern Synthesis: A Historical Framework for Knowledge Evolution.*  
 - Charles S. Thomas (2025). *Universal Pattern Taxonomy: Architecture and Implementation.*
+- Charles S. Thomas (2025). *Universal Pattern Taxonomy: Reference Implementation and Minimum Viable Taxonomy*. Zenodo. https://doi.org/10.5281/zenodo.17220542
 
 ---
 

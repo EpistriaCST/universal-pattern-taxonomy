@@ -19,7 +19,6 @@ Together, these establish both the intellectual case and the technical machinery
 ---
 
 ## Contents
-## Contents
 
 - [docs/OrientationMap.pdf](docs/OrientationMap.pdf) – Bridging document  
 - [docs/PatternSynthesis.pdf](docs/PatternSynthesis.pdf) – Historical framework (*why now*)  
@@ -28,8 +27,7 @@ Together, these establish both the intellectual case and the technical machinery
 - [taxonomy/MVT_seed.json](taxonomy/MVT_seed.json) – Minimum Viable Taxonomy (90 patterns)  
 - [taxonomy/schema.md](taxonomy/schema.md) – Dimensional fields and structure  
 
-- [examples/arrhythmiacontagion.md](examples/arrhythmia_contagion.md) – Worked example of pattern translation
-
+- [examples/arrhythmia_contagion.md](examples/arrhythmia_contagion.md) – Worked example of pattern translation
 
 ---
 
